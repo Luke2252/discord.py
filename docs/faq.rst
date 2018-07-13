@@ -1,7 +1,7 @@
 .. currentmodule:: discord
 .. _faq:
 
-Frequently Asked Questions
+Frequently Asked Questionsf
 ===========================
 
 This is a list of Frequently Asked Questions regarding using ``discord.py`` and its extension modules. Feel free to suggest a
